@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a2bba6e97c9b8e06d5b355274222aac9c" title="_DBE_ILI9325_DrawBitmap" alt="" coords="789,34,971,63"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#a342fc1687120380dc64302404e25016d" title="_DBE_ILI9325_DrawBitmapBMP" alt="" coords="520,34,731,63"/>
+<area shape="rect" id="node8" href="$backend___i_l_i9325_8c.html#a405ff9be169b7dbd14dff7bcd753c1fa" title="_DBE_ILI9325_DrawBitmapBMPFile" alt="" coords="511,87,740,116"/>
+<area shape="rect" id="node11" href="$backend___i_l_i9325_8c.html#ac2f18cf21039d87e2c7d315286efbf8b" title="_DBE_ILI9325_DrawFilledRectangle" alt="" coords="232,84,461,114"/>
+<area shape="rect" id="node15" href="$backend___i_l_i9325_8c.html#af8a2f0e1d6ca5686d191cbaeec6fd69b" title="Initialize the LCD controller." alt="" coords="268,188,425,218"/>
+</map>

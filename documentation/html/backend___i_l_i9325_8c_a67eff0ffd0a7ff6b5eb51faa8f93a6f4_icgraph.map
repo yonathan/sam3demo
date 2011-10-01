@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a342fc1687120380dc64302404e25016d" title="_DBE_ILI9325_DrawBitmapBMP" alt="" coords="1077,5,1288,35"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#ac2f18cf21039d87e2c7d315286efbf8b" title="_DBE_ILI9325_DrawFilledRectangle" alt="" coords="789,23,1019,52"/>
+<area shape="rect" id="node13" href="$backend___i_l_i9325_8c.html#a3a92d46a3a84bd791f12a26ce32001f5" title="_DBE_ILI9325_DrawLine" alt="" coords="823,100,985,129"/>
+<area shape="rect" id="node21" href="$backend___i_l_i9325_8c.html#a0407290fb9929b4c3cd167587cef6735" title="_DBE_ILI9325_DrawPixel" alt="" coords="292,124,460,153"/>
+<area shape="rect" id="node33" href="$backend___i_l_i9325_8c.html#a73ae69db23cb60f8702772cae39b40f7" title="_DBE_ILI9325_GetPixel" alt="" coords="296,177,456,207"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#a2bba6e97c9b8e06d5b355274222aac9c" title="_DBE_ILI9325_DrawBitmap" alt="" coords="1347,32,1528,61"/>
+<area shape="rect" id="node10" href="$backend___i_l_i9325_8c.html#a405ff9be169b7dbd14dff7bcd753c1fa" title="_DBE_ILI9325_DrawBitmapBMPFile" alt="" coords="1068,59,1297,88"/>
+<area shape="rect" id="node17" href="$backend___i_l_i9325_8c.html#a94c92867a5e757f12b305a49340a3792" title="_DBE_ILI9325_DrawFilledCircle" alt="" coords="1081,165,1284,195"/>
+<area shape="rect" id="node19" href="$backend___i_l_i9325_8c.html#ad3021302de9e7f7a957fc388e9c5a78b" title="_DBE_ILI9325_DrawRectangle" alt="" coords="1084,112,1281,141"/>
+<area shape="rect" id="node23" href="$backend___i_l_i9325_8c.html#aac81946495156493c7517b93f70c45e6" title="_DBE_ILI9325_DrawChar" alt="" coords="543,231,708,260"/>
+<area shape="rect" id="node27" href="$backend___i_l_i9325_8c.html#ac035f86f610614bfb43e63584f0ac749" title="_DBE_ILI9325_DrawCircle" alt="" coords="539,177,712,207"/>
+<area shape="rect" id="node30" href="$backend___i_l_i9325_8c.html#aa0a8a5bdd6de9530afb0a680830a53b7" title="_DBE_ILI9325_DrawLineBresenham" alt="" coords="511,124,740,153"/>
+<area shape="rect" id="node25" href="$backend___i_l_i9325_8c.html#ad80436027223695100f8daab2402cd42" title="_DBE_ILI9325_DrawText" alt="" coords="821,231,987,260"/>
+</map>

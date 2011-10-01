@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#aa8eeac7f9f61a3b3002f889013b049b8" title="Turn off the LCD." alt="" coords="231,5,388,35"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#a552a8ac7342a33992a1a13bcbae007b2" title="Write data to LCD Register." alt="" coords="453,136,619,165"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#a45ca437444b11fce30610bbf130b1bbe" title="_DBE_ILI9325_SetBGRMode" alt="" coords="215,109,404,139"/>
+<area shape="rect" id="node10" href="$backend___i_l_i9325_8c.html#a8bc711d87a49f785008e6df29b8958a1" title="Set cursor of LCD srceen." alt="" coords="225,163,393,192"/>
+<area shape="rect" id="node13" href="$backend___i_l_i9325_8c.html#aba7fd3cd8114bd14f38bb63e1b4e885d" title="_DBE_ILI9325_SetRGBMode" alt="" coords="215,216,404,245"/>
+<area shape="rect" id="node16" href="$backend___i_l_i9325_8c.html#a1677774b0b40a3b7a90ff2eac7d94ca4" title="_DBE_ILI9325_SetWindow" alt="" coords="221,269,397,299"/>
+<area shape="rect" id="node20" href="$sam__gui__porting_8h.html#af96c3ec1b04c9caf4ce04fa0737bd982" title="SAMGUI_TaskDelay" alt="" coords="239,323,380,352"/>
+</map>

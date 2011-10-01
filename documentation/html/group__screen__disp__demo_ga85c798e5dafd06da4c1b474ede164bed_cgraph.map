@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__disp__demo.html#ga2db802741e4b9ae1739cd4cdf3cfce66" title="_ScrDISPDemo_Draw" alt="" coords="284,85,433,115"/>
+<area shape="rect" id="node17" href="$group__screen__disp__demo.html#gae270f5aa48b67fc85da3ace1af0f4c3d" title="_ScrDISPDemo_IncState" alt="" coords="275,219,443,248"/>
+<area shape="rect" id="node21" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#ga3f11775614a9141bc86566e0f5c7a98a" title="WGT_SetCurrentScreen" alt="" coords="527,165,689,195"/>
+<area shape="rect" id="node23" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#ga5643d6ac224637489f1daf3f8d8e7f61" title="WGT_SetTimerPeriod" alt="" coords="535,272,681,301"/>
+<area shape="rect" id="node5" href="$group__screen__disp__demo.html#ga533c69c39caaeaed085d8c911ac22fc1" title="_ScrDISPDemo_DrawBitmaps" alt="" coords="509,5,707,35"/>
+<area shape="rect" id="node7" href="$group__screen__disp__demo.html#gaf41723d146cb0ae49046529d2f894580" title="_ScrDISPDemo_DrawColors" alt="" coords="515,59,701,88"/>
+<area shape="rect" id="node13" href="$group__screen__disp__demo.html#ga03f307e5997c4337779a12619db7d331" title="_ScrDISPDemo_DrawPrimitives" alt="" coords="505,112,711,141"/>
+<area shape="rect" id="node9" href="$group__screen__disp__demo.html#gabf406bdd9b4ab715cc59fa0a61f3a81f" title="_HLStoRGB" alt="" coords="812,59,905,88"/>
+<area shape="rect" id="node11" href="$group__screen__disp__demo.html#ga7d4ddb129a73913e6b2f490148bdd7ee" title="_HuetoRGB" alt="" coords="992,59,1083,88"/>
+<area shape="rect" id="node15" href="$group__screen__disp__demo.html#ga629f37669cc43098412209945da61b12" title="_ScrDISPDemo_GetRand" alt="" coords="773,112,944,141"/>
+<area shape="rect" id="node19" href="$group__screen__disp__demo.html#gac861ecc4fa0e761428a91cd801a50580" title="_ScrDISPDemo_OnDrawBackground" alt="" coords="491,219,725,248"/>
+</map>

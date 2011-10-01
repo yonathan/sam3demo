@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__settings__date.html#gad143da47f95bfdaaa7a610c817aa9234" title="_ScrSettings_Date_SetDay" alt="" coords="263,5,444,35"/>
+<area shape="rect" id="node5" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga11817090eca8c77cb79ddbb585d348e8" title="WGT_SetText" alt="" coords="499,84,603,113"/>
+<area shape="rect" id="node7" href="$group__screen__settings__date.html#ga193e6cd22a5be54ce066a89e8f4c18d5" title="_ScrSettings_Date_SetMonth" alt="" coords="256,109,451,139"/>
+<area shape="rect" id="node10" href="$group__screen__settings__date.html#ga605baf6a3de442ba842c9ebb8fc74ac2" title="_ScrSettings_Date_SetYear" alt="" coords="261,163,445,192"/>
+<area shape="rect" id="node13" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga2998f93c4bcabda718ca89d5da2dde15" title="WGT_CreateWidget" alt="" coords="284,216,423,245"/>
+<area shape="rect" id="node15" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#gad94f9f30b9865598ac0614d9e32092dd" title="WGT_Screen_AddWidget" alt="" coords="268,269,439,299"/>
+<area shape="rect" id="node17" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#gad1543aa09f137ac9ee896661e5bfea3e" title="WGT_Screen_Initialize" alt="" coords="276,323,431,352"/>
+<area shape="rect" id="node19" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga070902cb8b3a9c5db127b787d1fe98db" title="WGT_SetBitmap" alt="" coords="293,376,413,405"/>
+<area shape="rect" id="node21" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga667ecec36f843d4631908966842d5c8d" title="WGT_SetBkgndColor" alt="" coords="280,429,427,459"/>
+<area shape="rect" id="node24" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#gaf6561ca7673563a9c32e18ee5accba38" title="WGT_SetTextColor" alt="" coords="287,483,420,512"/>
+</map>

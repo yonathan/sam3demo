@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__settings__time.html#gab7d44cb7ce677070abd576cbd428be12" title="_ScrSettings_Time_SetHour" alt="" coords="317,5,504,35"/>
+<area shape="rect" id="node7" href="$group__screen__settings__time.html#ga8ca0c3c4ef5c86dc69cb5959d70425fb" title="_ScrSettings_Time_SetMin" alt="" coords="321,59,500,88"/>
+<area shape="rect" id="node10" href="$group__screen__settings__time.html#gaf49440bbafca246aa26b1de2e5d78215" title="_ScrSettings_Time_SetSec" alt="" coords="320,112,501,141"/>
+<area shape="rect" id="node13" href="$group__parameters.html#ga2706369ed7c5bf64712f21b1c8294373" title="Demo_Parameters_CommitChanges" alt="" coords="295,165,527,195"/>
+<area shape="rect" id="node15" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga6676bcccc2af89a0105f6bc705e1ec2f" title="WGT_Draw" alt="" coords="367,219,455,248"/>
+<area shape="rect" id="node17" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#ga3f11775614a9141bc86566e0f5c7a98a" title="WGT_SetCurrentScreen" alt="" coords="329,272,492,301"/>
+<area shape="rect" id="node5" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga11817090eca8c77cb79ddbb585d348e8" title="WGT_SetText" alt="" coords="576,59,680,88"/>
+</map>

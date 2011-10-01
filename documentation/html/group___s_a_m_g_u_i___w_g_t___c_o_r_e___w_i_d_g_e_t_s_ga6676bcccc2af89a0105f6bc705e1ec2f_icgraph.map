@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__qtouch.html#gae8d5d111344526c9a9ba3a79b3030fb2" title="_ScrQTouch_ProcessMessage" alt="" coords="160,5,363,35"/>
+<area shape="rect" id="node5" href="$group__screen__settings__date.html#ga29e0449d57775246a13978fcf4352306" title="_ScrSettings_Date_ProcessMessage" alt="" coords="143,59,380,88"/>
+<area shape="rect" id="node7" href="$group__screen__settings__time.html#ga5326c87dcc5e9c636f52ac959d634bb0" title="_ScrSettings_Time_ProcessMessage" alt="" coords="141,112,381,141"/>
+<area shape="rect" id="node9" href="$group__screen__main.html#ga1accd50b50bf3b3381f4fc711dc2e699" title="ScrMain_DrawStatus" alt="" coords="189,165,333,195"/>
+<area shape="rect" id="node11" href="$group__screen__main.html#ga13c80a2669231756aac2ff58cce9f5a9" title="ScrMain_ProcessMessage" alt="" coords="429,165,608,195"/>
+</map>

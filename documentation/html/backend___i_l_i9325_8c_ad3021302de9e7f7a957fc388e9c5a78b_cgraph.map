@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a3a92d46a3a84bd791f12a26ce32001f5" title="_DBE_ILI9325_DrawLine" alt="" coords="255,72,417,102"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#aa0a8a5bdd6de9530afb0a680830a53b7" title="_DBE_ILI9325_DrawLineBresenham" alt="" coords="468,46,697,75"/>
+<area shape="rect" id="node9" href="$backend___i_l_i9325_8c.html#a67eff0ffd0a7ff6b5eb51faa8f93a6f4" title="Prepare to access GRAM data." alt="" coords="967,7,1201,36"/>
+<area shape="rect" id="node11" href="$backend___i_l_i9325_8c.html#a8bc711d87a49f785008e6df29b8958a1" title="Set cursor of LCD srceen." alt="" coords="1000,72,1168,102"/>
+<area shape="rect" id="node17" href="$backend___i_l_i9325_8c.html#ad82fc28d71f570261279d53ee2605652" title="Write data to LCD GRAM." alt="" coords="497,150,668,179"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#a0407290fb9929b4c3cd167587cef6735" title="_DBE_ILI9325_DrawPixel" alt="" coords="748,46,916,75"/>
+<area shape="rect" id="node13" href="$backend___i_l_i9325_8c.html#a552a8ac7342a33992a1a13bcbae007b2" title="Write data to LCD Register." alt="" coords="1251,72,1416,102"/>
+</map>

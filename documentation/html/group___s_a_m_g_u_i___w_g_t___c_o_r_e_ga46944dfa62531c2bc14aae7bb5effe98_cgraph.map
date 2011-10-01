@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___m_e_s_s_a_g_e_s.html#ga92eef8b71be82af2344dd3ac9454f6fa" title="WGT_PostMessage" alt="" coords="289,5,428,35"/>
+<area shape="rect" id="node5" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#ga80fc7726e98c6c9d27d0ac0251e0dd20" title="WGT_Screen_GetPointedWidget" alt="" coords="252,59,465,88"/>
+<area shape="rect" id="node7" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#gac21d8e67f06cbcad868af3135138ff23" title="WGT_Screen_GetSelectedWidget" alt="" coords="249,112,468,141"/>
+<area shape="rect" id="node9" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#ga65bfdf41c49a23288df362de4ac00976" title="WGT_Screen_OnEraseBackground" alt="" coords="245,165,472,195"/>
+<area shape="rect" id="node11" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#ga97cce8955f0213d32f5e7b57848a43d8" title="WGT_Screen_OnPaint" alt="" coords="281,219,436,248"/>
+<area shape="rect" id="node13" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#ga17f6c22ece4c2451d0e9e31100c72bcd" title="WGT_Screen_SetSelectedWidget" alt="" coords="249,272,468,301"/>
+</map>

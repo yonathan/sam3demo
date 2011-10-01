@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__settings__date.html#ga29e0449d57775246a13978fcf4352306" title="_ScrSettings_Date_ProcessMessage" alt="" coords="299,5,536,35"/>
+<area shape="rect" id="node5" href="$group__screen__settings__time.html#ga5326c87dcc5e9c636f52ac959d634bb0" title="_ScrSettings_Time_ProcessMessage" alt="" coords="297,59,537,88"/>
+<area shape="rect" id="node7" href="$group__screen__tsd__calibration.html#ga049d6e6a19d1d7a027b633c8c2fa6edf" title="_ScrTSDCalibration_ProcessMessage" alt="" coords="296,112,539,141"/>
+<area shape="rect" id="node9" href="$group__parameters.html#ga3afdc9df6458343c95dc8fe9dbebc81b" title="Demo_Parameters_Initialize" alt="" coords="325,165,509,195"/>
+<area shape="rect" id="node15" href="$group__screen__main.html#ga13c80a2669231756aac2ff58cce9f5a9" title="ScrMain_ProcessMessage" alt="" coords="328,219,507,248"/>
+<area shape="rect" id="node17" href="$group__screen__settings__backlight.html#ga0c5ac91b16a60eb90647e66860e3fc17" title="ScrSettings_Backlight_ProcessMessage" alt="" coords="288,272,547,301"/>
+<area shape="rect" id="node11" href="$group__main.html#ga435879556689618a7ee6d33842edb018" title="_SetupHardware" alt="" coords="595,165,712,195"/>
+<area shape="rect" id="node13" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="760,165,811,195"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node17" href="$frontend__pushbuttons_8h.html" title="sam&#45;gui/wgt/frontends/frontend_pushbuttons.h" alt="" coords="845,83,1133,112"/>
+<area shape="rect" id="node23" href="$wgt__core__message_8h.html" title="sam&#45;gui/wgt/core/wgt_core_message.h" alt="" coords="1157,83,1405,112"/>
+<area shape="rect" id="node25" href="$sam__gui__errors_8h.html" title="sam&#45;gui/common/sam_gui_errors.h" alt="" coords="1429,83,1656,112"/>
+<area shape="rect" id="node27" href="$qtouch_8h.html" title="qtouch.h" alt="" coords="1680,83,1752,112"/>
+<area shape="rect" id="node36" href="$touch__api_8h.html" title="touch_api.h" alt="" coords="1827,83,1915,112"/>
+<area shape="rect" id="node58" href="$compiler_8h.html" title="qtouch/compiler.h" alt="" coords="2821,83,2947,112"/>
+<area shape="rect" id="node21" href="$wgt__core__frontend_8h.html" title="sam&#45;gui/wgt/core/wgt_core_frontend.h" alt="" coords="869,160,1109,189"/>
+<area shape="rect" id="node29" href="$rtmedia_8h.html" title="nand/rtmedia.h" alt="" coords="1380,160,1487,189"/>
+</map>

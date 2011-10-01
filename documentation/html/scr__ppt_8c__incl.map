@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$screens_8h.html" title="gui/screens.h" alt="" coords="653,83,752,112"/>
+<area shape="rect" id="node19" href="$wgt__core_8h.html" title="sam&#45;gui/wgt/core/wgt_core.h" alt="" coords="443,83,629,112"/>
+<area shape="rect" id="node29" href="$sam__gui__errors_8h.html" title="sam&#45;gui/common/sam_gui_errors.h" alt="" coords="1021,83,1248,112"/>
+<area shape="rect" id="node31" href="$sam__gui__colors_8h.html" title="sam&#45;gui/common/sam_gui_colors.h" alt="" coords="5,315,232,344"/>
+<area shape="rect" id="node34" href="$sam__gui__porting_8h.html" title="sam&#45;gui/porting/sam_gui_porting.h" alt="" coords="776,83,997,112"/>
+<area shape="rect" id="node41" href="$file__fs_8h.html" title="sam&#45;gui/file/file_fs.h" alt="" coords="1272,83,1408,112"/>
+<area shape="rect" id="node45" href="$demo__parameters_8h.html" title="demo_parameters.h" alt="" coords="223,83,359,112"/>
+<area shape="rect" id="node5" href="$wgt__core__screen_8h.html" title="sam&#45;gui/wgt/core/wgt_core_screen.h" alt="" coords="581,160,816,189"/>
+<area shape="rect" id="node7" href="$wgt__core__widget_8h.html" title="sam&#45;gui/wgt/core/wgt_core_widget.h" alt="" coords="581,237,813,267"/>
+<area shape="rect" id="node17" href="$wgt__core__message_8h.html" title="sam&#45;gui/wgt/core/wgt_core_message.h" alt="" coords="837,237,1085,267"/>
+<area shape="rect" id="node9" href="$disp__backend_8h.html" title="disp/disp_backend.h" alt="" coords="473,315,615,344"/>
+<area shape="rect" id="node11" href="$sam__gui__color_8h.html" title="sam&#45;gui/common/sam_gui_color.h" alt="" coords="131,392,352,421"/>
+<area shape="rect" id="node13" href="$sam__gui__font_8h.html" title="sam&#45;gui/common/sam_gui_font.h" alt="" coords="437,392,651,421"/>
+<area shape="rect" id="node15" href="$sam__gui__font10x14_8h.html" title="sam&#45;gui/common/sam_gui_font10x14.h" alt="" coords="420,469,668,499"/>
+<area shape="rect" id="node22" href="$wgt__core__frontend_8h.html" title="sam&#45;gui/wgt/core/wgt_core_frontend.h" alt="" coords="188,237,428,267"/>
+<area shape="rect" id="node47" href="$frontend___a_d_s7843_8h.html" title="sam&#45;gui/wgt/frontends/frontend_ADS7843.h" alt="" coords="93,160,365,189"/>
+</map>

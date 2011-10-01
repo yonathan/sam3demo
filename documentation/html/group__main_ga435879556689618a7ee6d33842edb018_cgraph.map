@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__parameters.html#ga3afdc9df6458343c95dc8fe9dbebc81b" title="Demo_Parameters_Initialize" alt="" coords="171,59,355,88"/>
+<area shape="rect" id="node7" href="$group___s_a_m_g_u_i___d_i_s_p.html#ga5fd87bc20a029c7922bc1a5c55cfdbba" title="DISP_Initialize" alt="" coords="209,165,316,195"/>
+<area shape="rect" id="node9" href="$ftldrv_8c.html#a2bda5dc4ea43d2bb385d51cb8156539c" title="NandFlashInitialize" alt="" coords="197,219,328,248"/>
+<area shape="rect" id="node23" href="$qtouch_8c.html#a5d5d7c49777eeb42c036f9f574cabb32" title="QTouchInitialize QTouchInitialize initialise the QTouch interface." alt="" coords="205,379,320,408"/>
+<area shape="rect" id="node35" href="$usbmsd_8c.html#a8fe26b30e41c34ee45c2112b30a6b336" title="UsbMsdInitialize" alt="" coords="204,432,321,461"/>
+<area shape="rect" id="node5" href="$group__parameters.html#ga2706369ed7c5bf64712f21b1c8294373" title="Demo_Parameters_CommitChanges" alt="" coords="404,5,636,35"/>
+<area shape="rect" id="node11" href="$group__group__bsp.html#ga27d74089e5e4bce8098f780bc309337a" title="Configures the EBI for NandFlash access." alt="" coords="425,59,615,88"/>
+<area shape="rect" id="node13" href="$fatfs__config_8h.html#a3e3be40c604a2df3fbd9e586afbc7800" title="f_mkfs" alt="" coords="491,112,549,141"/>
+<area shape="rect" id="node15" href="$fatfs__config_8h.html#ad995e9683ac193923812fbb250ba0acb" title="f_mount" alt="" coords="487,165,553,195"/>
+<area shape="rect" id="node17" href="$fatfs__config_8h.html#ace3bd1497a01d39625dc9685ca46945d" title="f_opendir" alt="" coords="483,219,557,248"/>
+<area shape="rect" id="node19" href="$rtmedia_8c.html#a3bdc39f3d6d7a9ee229db5cdbcfcb7bd" title="Wrapper for the Media Flush function. This wrapper protects from simultanoeous access..." alt="" coords="461,272,579,301"/>
+<area shape="rect" id="node21" href="$rtmedia_8c.html#a25c3d04d4fb6466fd22ce77261d200d4" title="Initialize the RtMedia object. This initialization ONLY concerns the mutex." alt="" coords="469,325,571,355"/>
+<area shape="rect" id="node25" href="$qtouch_8c.html#a1fad8be082d57b33b330c9e39640d95c" title="config_sensors_at91 Configuration of the slider and the touch of the QTouch" alt="" coords="449,379,591,408"/>
+<area shape="rect" id="node31" href="$touch__api_8h.html#a3902ff0afcbd10a3a84e4e79b2aa8e7f" title="qt_reset_sensing" alt="" coords="460,432,580,461"/>
+<area shape="rect" id="node33" href="$qtouch_8c.html#af56846eadec09d0b0bbe4527c0e62f00" title="qt_set_parameters This will fill the default threshold values in the configuration..." alt="" coords="455,485,585,515"/>
+<area shape="rect" id="node27" href="$touch__api_8h.html#a7a4e0f08e4745b1b86c74b27d7a3623d" title="qt_enable_key" alt="" coords="691,352,797,381"/>
+<area shape="rect" id="node29" href="$touch__api_8h.html#aacf90785521dc31a9ee71d808c2c7d46" title="qt_enable_slider" alt="" coords="687,405,801,435"/>
+</map>

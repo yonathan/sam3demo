@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__disp__demo.html#gae270f5aa48b67fc85da3ace1af0f4c3d" title="_ScrDISPDemo_IncState" alt="" coords="261,5,429,35"/>
+<area shape="rect" id="node5" href="$group__screen__disp__demo.html#ga85c798e5dafd06da4c1b474ede164bed" title="_ScrDISPDemo_ProcessMessage" alt="" coords="523,32,744,61"/>
+<area shape="rect" id="node8" href="$group__screen__qtouch.html#gae8d5d111344526c9a9ba3a79b3030fb2" title="_ScrQTouch_ProcessMessage" alt="" coords="244,109,447,139"/>
+<area shape="rect" id="node10" href="$group__screen__settings__date.html#ga29e0449d57775246a13978fcf4352306" title="_ScrSettings_Date_ProcessMessage" alt="" coords="227,163,464,192"/>
+<area shape="rect" id="node12" href="$group__screen__settings__time.html#ga5326c87dcc5e9c636f52ac959d634bb0" title="_ScrSettings_Time_ProcessMessage" alt="" coords="225,216,465,245"/>
+<area shape="rect" id="node14" href="$group__screen__tsd__calibration.html#ga049d6e6a19d1d7a027b633c8c2fa6edf" title="_ScrTSDCalibration_ProcessMessage" alt="" coords="224,269,467,299"/>
+<area shape="rect" id="node16" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="320,323,371,352"/>
+<area shape="rect" id="node18" href="$group__screen__audio.html#ga419ef19697c8aa181f5eb0752769e110" title="ScrAudio_ProcessMessage" alt="" coords="255,376,436,405"/>
+<area shape="rect" id="node20" href="$group__screen__infos.html#ga87e04322feb7d073e0e9dcd3b6dc9a99" title="ScrInfos_ProcessMessage" alt="" coords="257,429,433,459"/>
+<area shape="rect" id="node22" href="$group__screen__intro.html#ga6d3fc71311fd8bbe9f5cdc494f440b5b" title="ScrIntro_ProcessMessage" alt="" coords="259,483,432,512"/>
+<area shape="rect" id="node24" href="$group__screen__lp__modes.html#ga23d9b5cacbe6faaeef5e51c1533aa4bc" title="ScrLPModes_ProcessMessage" alt="" coords="243,536,448,565"/>
+<area shape="rect" id="node26" href="$group__screen__sleep.html#gaee163839e30cb7a4fcec30c55e790a93" title="ScrLPModes_Sleep_ProcessMessage" alt="" coords="223,589,468,619"/>
+<area shape="rect" id="node28" href="$group__screen__wait__mode.html#ga38e98f424fe5988756e33351b8a1efa7" title="ScrLPModes_Wait_ProcessMessage" alt="" coords="227,643,464,672"/>
+<area shape="rect" id="node30" href="$group__screen__main.html#ga13c80a2669231756aac2ff58cce9f5a9" title="ScrMain_ProcessMessage" alt="" coords="256,696,435,725"/>
+<area shape="rect" id="node32" href="$group__screen__ppt.html#ga20b951352c69b0aea429252d517e9f11" title="ScrPPT_ProcessMessage" alt="" coords="259,749,432,779"/>
+<area shape="rect" id="node34" href="$group__screen__settings__backlight.html#ga0c5ac91b16a60eb90647e66860e3fc17" title="ScrSettings_Backlight_ProcessMessage" alt="" coords="216,803,475,832"/>
+<area shape="rect" id="node36" href="$group__screen__settings.html#ga937de07d833e44210e6f2413dad918b6" title="ScrSettings_ProcessMessage" alt="" coords="247,856,444,885"/>
+</map>

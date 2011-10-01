@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$wgt__core__screen_8h.html" title="sam&#45;gui/wgt/core/wgt_core_screen.h" alt="" coords="148,160,383,189"/>
+<area shape="rect" id="node9" href="$sam__gui__color_8h.html" title="sam&#45;gui/common/sam_gui_color.h" alt="" coords="36,392,258,421"/>
+<area shape="rect" id="node17" href="$sam__gui__errors_8h.html" title="sam&#45;gui/common/sam_gui_errors.h" alt="" coords="800,83,1027,112"/>
+<area shape="rect" id="node20" href="$wgt__core_8h.html" title="sam&#45;gui/wgt/core/wgt_core.h" alt="" coords="488,83,675,112"/>
+<area shape="rect" id="node30" href="$sam__gui__colors_8h.html" title="sam&#45;gui/common/sam_gui_colors.h" alt="" coords="43,315,270,344"/>
+<area shape="rect" id="node5" href="$wgt__core__widget_8h.html" title="sam&#45;gui/wgt/core/wgt_core_widget.h" alt="" coords="143,237,375,267"/>
+<area shape="rect" id="node15" href="$wgt__core__message_8h.html" title="sam&#45;gui/wgt/core/wgt_core_message.h" alt="" coords="399,237,647,267"/>
+<area shape="rect" id="node7" href="$disp__backend_8h.html" title="disp/disp_backend.h" alt="" coords="310,315,451,344"/>
+<area shape="rect" id="node11" href="$sam__gui__font_8h.html" title="sam&#45;gui/common/sam_gui_font.h" alt="" coords="282,392,495,421"/>
+<area shape="rect" id="node13" href="$sam__gui__font10x14_8h.html" title="sam&#45;gui/common/sam_gui_font10x14.h" alt="" coords="264,469,512,499"/>
+<area shape="rect" id="node23" href="$wgt__core__frontend_8h.html" title="sam&#45;gui/wgt/core/wgt_core_frontend.h" alt="" coords="407,160,647,189"/>
+</map>

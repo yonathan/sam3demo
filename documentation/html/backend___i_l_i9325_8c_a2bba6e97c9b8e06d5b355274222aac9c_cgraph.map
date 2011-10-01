@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a342fc1687120380dc64302404e25016d" title="_DBE_ILI9325_DrawBitmapBMP" alt="" coords="245,227,456,256"/>
+<area shape="rect" id="node9" href="$backend___i_l_i9325_8c.html#a8bc711d87a49f785008e6df29b8958a1" title="Set cursor of LCD srceen." alt="" coords="1347,302,1515,331"/>
+<area shape="rect" id="node13" href="$backend___i_l_i9325_8c.html#a1677774b0b40a3b7a90ff2eac7d94ca4" title="_DBE_ILI9325_SetWindow" alt="" coords="820,404,996,434"/>
+<area shape="rect" id="node31" href="$backend___i_l_i9325_8c.html#a405ff9be169b7dbd14dff7bcd753c1fa" title="_DBE_ILI9325_DrawBitmapBMPFile" alt="" coords="236,532,465,562"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#ac2f18cf21039d87e2c7d315286efbf8b" title="_DBE_ILI9325_DrawFilledRectangle" alt="" coords="515,252,744,282"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#a67eff0ffd0a7ff6b5eb51faa8f93a6f4" title="Prepare to access GRAM data." alt="" coords="1313,19,1548,48"/>
+<area shape="rect" id="node16" href="$backend___i_l_i9325_8c.html#a3a92d46a3a84bd791f12a26ce32001f5" title="_DBE_ILI9325_DrawLine" alt="" coords="548,148,711,178"/>
+<area shape="rect" id="node11" href="$backend___i_l_i9325_8c.html#a552a8ac7342a33992a1a13bcbae007b2" title="Write data to LCD Register." alt="" coords="1597,508,1763,538"/>
+<area shape="rect" id="node18" href="$backend___i_l_i9325_8c.html#aa0a8a5bdd6de9530afb0a680830a53b7" title="_DBE_ILI9325_DrawLineBresenham" alt="" coords="793,95,1023,124"/>
+<area shape="rect" id="node26" href="$backend___i_l_i9325_8c.html#ad82fc28d71f570261279d53ee2605652" title="Write data to LCD GRAM." alt="" coords="823,148,993,178"/>
+<area shape="rect" id="node20" href="$backend___i_l_i9325_8c.html#a0407290fb9929b4c3cd167587cef6735" title="_DBE_ILI9325_DrawPixel" alt="" coords="1084,44,1252,74"/>
+<area shape="rect" id="node35" href="$backend___i_l_i9325_8c.html#a45ca437444b11fce30610bbf130b1bbe" title="_DBE_ILI9325_SetBGRMode" alt="" coords="1073,768,1263,798"/>
+<area shape="rect" id="node39" href="$backend___i_l_i9325_8c.html#aba7fd3cd8114bd14f38bb63e1b4e885d" title="_DBE_ILI9325_SetRGBMode" alt="" coords="1073,508,1263,538"/>
+<area shape="rect" id="node44" href="$fatfs__config_8h.html#a004f8ebf5a01c5c7065292cc4545bc38" title="f_close" alt="" coords="599,559,660,588"/>
+<area shape="rect" id="node46" href="$fatfs__config_8h.html#ac9a2d3b1cec2ede839b1c70397e6f1f8" title="f_lseek" alt="" coords="599,612,660,642"/>
+<area shape="rect" id="node48" href="$fatfs__config_8h.html#acc1baff27a4dd3ba56b9bba3ff1f2000" title="f_open" alt="" coords="600,716,659,746"/>
+<area shape="rect" id="node50" href="$fatfs__config_8h.html#a9f0df1d597f92e2e6482e3a8f5c9b136" title="f_read" alt="" coords="601,770,657,799"/>
+</map>

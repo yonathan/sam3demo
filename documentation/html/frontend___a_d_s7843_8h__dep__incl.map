@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$demo__parameters_8h.html" title="demo/src/demo_parameters.h" alt="" coords="1339,83,1533,112"/>
+<area shape="rect" id="node29" href="$frontend___a_d_s7843_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_ADS7843.c" alt="" coords="2555,160,2875,189"/>
+<area shape="rect" id="node31" href="$wgt__core__frontend_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_frontend.c" alt="" coords="2235,83,2525,112"/>
+<area shape="rect" id="node5" href="$board__lowlevel__demo_8c.html" title="demo/src/board_lowlevel_demo.c" alt="" coords="5,160,219,189"/>
+<area shape="rect" id="node7" href="$demo__parameters_8c.html" title="demo/src/demo_parameters.c" alt="" coords="243,160,437,189"/>
+<area shape="rect" id="node9" href="$scr__disp__demo_8c.html" title="demo/src/gui/scr_disp_demo.c" alt="" coords="461,160,661,189"/>
+<area shape="rect" id="node11" href="$scr__infos_8c.html" title="demo/src/gui/scr_infos.c" alt="" coords="685,160,848,189"/>
+<area shape="rect" id="node13" href="$scr__intro_8c.html" title="demo/src/gui/scr_intro.c" alt="" coords="872,160,1035,189"/>
+<area shape="rect" id="node15" href="$scr__main_8c.html" title="demo/src/gui/scr_main.c" alt="" coords="1059,160,1224,189"/>
+<area shape="rect" id="node17" href="$scr__ppt_8c.html" title="demo/src/gui/scr_ppt.c" alt="" coords="1248,160,1403,189"/>
+<area shape="rect" id="node19" href="$scr__settings__backlight_8c.html" title="demo/src/gui/scr_settings_backlight.c" alt="" coords="1427,160,1669,189"/>
+<area shape="rect" id="node21" href="$scr__settings__date_8c.html" title="demo/src/gui/scr_settings_date.c" alt="" coords="1693,160,1907,189"/>
+<area shape="rect" id="node23" href="$scr__settings__time_8c.html" title="demo/src/gui/scr_settings_time.c" alt="" coords="1931,160,2144,189"/>
+<area shape="rect" id="node25" href="$scr___t_s_d_calibration_8c.html" title="demo/src/gui/scr_TSDCalibration.c" alt="" coords="2168,160,2389,189"/>
+<area shape="rect" id="node27" href="$main_8c.html" title="demo/src/main.c" alt="" coords="2413,160,2531,189"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a405ff9be169b7dbd14dff7bcd753c1fa" title="_DBE_ILI9325_DrawBitmapBMPFile" alt="" coords="1236,512,1465,541"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#af8a2f0e1d6ca5686d191cbaeec6fd69b" title="Initialize the LCD controller." alt="" coords="465,664,623,693"/>
+<area shape="rect" id="node9" href="$backend___i_l_i9325_8c.html#aa8eeac7f9f61a3b3002f889013b049b8" title="Turn off the LCD." alt="" coords="236,721,393,750"/>
+<area shape="rect" id="node14" href="$backend___i_l_i9325_8c.html#a130287f877d0cf086909c59c2bbdc3f0" title="Turn on the LCD." alt="" coords="235,774,395,804"/>
+<area shape="rect" id="node17" href="$backend___i_l_i9325_8c.html#a45ca437444b11fce30610bbf130b1bbe" title="_DBE_ILI9325_SetBGRMode" alt="" coords="220,668,409,697"/>
+<area shape="rect" id="node21" href="$backend___i_l_i9325_8c.html#a8bc711d87a49f785008e6df29b8958a1" title="Set cursor of LCD srceen." alt="" coords="231,257,399,286"/>
+<area shape="rect" id="node55" href="$backend___i_l_i9325_8c.html#aba7fd3cd8114bd14f38bb63e1b4e885d" title="_DBE_ILI9325_SetRGBMode" alt="" coords="220,564,409,593"/>
+<area shape="rect" id="node59" href="$backend___i_l_i9325_8c.html#a1677774b0b40a3b7a90ff2eac7d94ca4" title="_DBE_ILI9325_SetWindow" alt="" coords="227,510,403,540"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#a2bba6e97c9b8e06d5b355274222aac9c" title="_DBE_ILI9325_DrawBitmap" alt="" coords="1515,360,1696,389"/>
+<area shape="rect" id="node12" href="$backend___i_l_i9325_8c.html#a00923baf4835083a8e6d1b37c2948684" title="_DBE_ILI9325_IOCtl" alt="" coords="475,772,613,801"/>
+<area shape="rect" id="node24" href="$backend___i_l_i9325_8c.html#a342fc1687120380dc64302404e25016d" title="_DBE_ILI9325_DrawBitmapBMP" alt="" coords="1245,308,1456,337"/>
+<area shape="rect" id="node28" href="$backend___i_l_i9325_8c.html#ac2f18cf21039d87e2c7d315286efbf8b" title="_DBE_ILI9325_DrawFilledRectangle" alt="" coords="957,360,1187,389"/>
+<area shape="rect" id="node32" href="$backend___i_l_i9325_8c.html#a3a92d46a3a84bd791f12a26ce32001f5" title="_DBE_ILI9325_DrawLine" alt="" coords="991,205,1153,234"/>
+<area shape="rect" id="node40" href="$backend___i_l_i9325_8c.html#a0407290fb9929b4c3cd167587cef6735" title="_DBE_ILI9325_DrawPixel" alt="" coords="460,101,628,130"/>
+<area shape="rect" id="node52" href="$backend___i_l_i9325_8c.html#a73ae69db23cb60f8702772cae39b40f7" title="_DBE_ILI9325_GetPixel" alt="" coords="464,205,624,234"/>
+<area shape="rect" id="node36" href="$backend___i_l_i9325_8c.html#a94c92867a5e757f12b305a49340a3792" title="_DBE_ILI9325_DrawFilledCircle" alt="" coords="1249,100,1452,129"/>
+<area shape="rect" id="node38" href="$backend___i_l_i9325_8c.html#ad3021302de9e7f7a957fc388e9c5a78b" title="_DBE_ILI9325_DrawRectangle" alt="" coords="1252,205,1449,234"/>
+<area shape="rect" id="node42" href="$backend___i_l_i9325_8c.html#aac81946495156493c7517b93f70c45e6" title="_DBE_ILI9325_DrawChar" alt="" coords="711,101,876,130"/>
+<area shape="rect" id="node46" href="$backend___i_l_i9325_8c.html#ac035f86f610614bfb43e63584f0ac749" title="_DBE_ILI9325_DrawCircle" alt="" coords="707,48,880,77"/>
+<area shape="rect" id="node49" href="$backend___i_l_i9325_8c.html#aa0a8a5bdd6de9530afb0a680830a53b7" title="_DBE_ILI9325_DrawLineBresenham" alt="" coords="679,154,908,184"/>
+<area shape="rect" id="node44" href="$backend___i_l_i9325_8c.html#ad80436027223695100f8daab2402cd42" title="_DBE_ILI9325_DrawText" alt="" coords="989,101,1155,130"/>
+</map>

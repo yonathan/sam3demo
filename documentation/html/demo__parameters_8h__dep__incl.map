@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$board__lowlevel__demo_8c.html" title="demo/src/board_lowlevel_demo.c" alt="" coords="5,83,219,112"/>
+<area shape="rect" id="node5" href="$demo__parameters_8c.html" title="demo/src/demo_parameters.c" alt="" coords="243,83,437,112"/>
+<area shape="rect" id="node7" href="$scr__disp__demo_8c.html" title="demo/src/gui/scr_disp_demo.c" alt="" coords="461,83,661,112"/>
+<area shape="rect" id="node9" href="$scr__infos_8c.html" title="demo/src/gui/scr_infos.c" alt="" coords="685,83,848,112"/>
+<area shape="rect" id="node11" href="$scr__intro_8c.html" title="demo/src/gui/scr_intro.c" alt="" coords="872,83,1035,112"/>
+<area shape="rect" id="node13" href="$scr__main_8c.html" title="demo/src/gui/scr_main.c" alt="" coords="1059,83,1224,112"/>
+<area shape="rect" id="node15" href="$scr__ppt_8c.html" title="demo/src/gui/scr_ppt.c" alt="" coords="1248,83,1403,112"/>
+<area shape="rect" id="node17" href="$scr__settings__backlight_8c.html" title="demo/src/gui/scr_settings_backlight.c" alt="" coords="1427,83,1669,112"/>
+<area shape="rect" id="node19" href="$scr__settings__date_8c.html" title="demo/src/gui/scr_settings_date.c" alt="" coords="1693,83,1907,112"/>
+<area shape="rect" id="node21" href="$scr__settings__time_8c.html" title="demo/src/gui/scr_settings_time.c" alt="" coords="1931,83,2144,112"/>
+<area shape="rect" id="node23" href="$scr___t_s_d_calibration_8c.html" title="demo/src/gui/scr_TSDCalibration.c" alt="" coords="2168,83,2389,112"/>
+<area shape="rect" id="node25" href="$main_8c.html" title="demo/src/main.c" alt="" coords="2413,83,2531,112"/>
+<area shape="rect" id="node27" href="$frontend___a_d_s7843_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_ADS7843.c" alt="" coords="2555,83,2875,112"/>
+</map>

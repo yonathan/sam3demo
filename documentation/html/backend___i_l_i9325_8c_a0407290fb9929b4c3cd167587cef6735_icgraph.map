@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#aac81946495156493c7517b93f70c45e6" title="_DBE_ILI9325_DrawChar" alt="" coords="257,7,423,36"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#ac035f86f610614bfb43e63584f0ac749" title="_DBE_ILI9325_DrawCircle" alt="" coords="504,59,677,88"/>
+<area shape="rect" id="node11" href="$backend___i_l_i9325_8c.html#aa0a8a5bdd6de9530afb0a680830a53b7" title="_DBE_ILI9325_DrawLineBresenham" alt="" coords="225,111,455,140"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#ad80436027223695100f8daab2402cd42" title="_DBE_ILI9325_DrawText" alt="" coords="508,5,673,35"/>
+<area shape="rect" id="node9" href="$backend___i_l_i9325_8c.html#a94c92867a5e757f12b305a49340a3792" title="_DBE_ILI9325_DrawFilledCircle" alt="" coords="740,59,943,88"/>
+<area shape="rect" id="node13" href="$backend___i_l_i9325_8c.html#a3a92d46a3a84bd791f12a26ce32001f5" title="_DBE_ILI9325_DrawLine" alt="" coords="509,112,672,141"/>
+<area shape="rect" id="node15" href="$backend___i_l_i9325_8c.html#a342fc1687120380dc64302404e25016d" title="_DBE_ILI9325_DrawBitmapBMP" alt="" coords="736,112,947,141"/>
+<area shape="rect" id="node19" href="$backend___i_l_i9325_8c.html#a405ff9be169b7dbd14dff7bcd753c1fa" title="_DBE_ILI9325_DrawBitmapBMPFile" alt="" coords="727,165,956,195"/>
+<area shape="rect" id="node23" href="$backend___i_l_i9325_8c.html#ad3021302de9e7f7a957fc388e9c5a78b" title="_DBE_ILI9325_DrawRectangle" alt="" coords="743,219,940,248"/>
+<area shape="rect" id="node17" href="$backend___i_l_i9325_8c.html#a2bba6e97c9b8e06d5b355274222aac9c" title="_DBE_ILI9325_DrawBitmap" alt="" coords="1005,139,1187,168"/>
+</map>

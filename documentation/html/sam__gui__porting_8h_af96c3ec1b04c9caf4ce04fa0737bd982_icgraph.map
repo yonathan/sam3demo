@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#af8a2f0e1d6ca5686d191cbaeec6fd69b" title="Initialize the LCD controller." alt="" coords="237,5,395,35"/>
+<area shape="rect" id="node5" href="$group__screen__tsd__calibration.html#ga049d6e6a19d1d7a027b633c8c2fa6edf" title="_ScrTSDCalibration_ProcessMessage" alt="" coords="195,59,437,88"/>
+<area shape="rect" id="node7" href="$group__main.html#ga73a7a616c8e7ba205d6938d04d9f6cf5" title="_TaskMonitoring" alt="" coords="257,112,375,141"/>
+<area shape="rect" id="node9" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="485,112,536,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$usbmsd_8c.html#a808a5228ef4255538d693917e6a49efb" title="MSDCallbacks_Data" alt="" coords="153,5,295,35"/>
+<area shape="rect" id="node5" href="$_m_s_d_lun_8c.html#aa710b1e43c3ab9a2de3f14fa2ede41bc" title="Initializes a LUN instance. Must be invoked at least once even no Media is linked..." alt="" coords="181,59,267,88"/>
+<area shape="rect" id="node7" href="$usbmsd_8c.html#a5e8998eb86551a02e8a1aac21428dd0a" title="Configures the VBus Pin." alt="" coords="167,112,281,141"/>
+</map>

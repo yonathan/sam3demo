@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$screens_8h.html" title="gui/screens.h" alt="" coords="331,83,429,112"/>
+<area shape="rect" id="node19" href="$wgt__core_8h.html" title="sam&#45;gui/wgt/core/wgt_core.h" alt="" coords="453,83,640,112"/>
+<area shape="rect" id="node29" href="$sam__gui__errors_8h.html" title="sam&#45;gui/common/sam_gui_errors.h" alt="" coords="664,83,891,112"/>
+<area shape="rect" id="node31" href="$sam__gui__porting_8h.html" title="sam&#45;gui/porting/sam_gui_porting.h" alt="" coords="915,83,1136,112"/>
+<area shape="rect" id="node38" href="$demo__parameters_8h.html" title="demo_parameters.h" alt="" coords="1160,83,1296,112"/>
+<area shape="rect" id="node45" href="$sam__gui__colors_8h.html" title="sam&#45;gui/common/sam_gui_colors.h" alt="" coords="1147,315,1373,344"/>
+<area shape="rect" id="node5" href="$wgt__core__screen_8h.html" title="sam&#45;gui/wgt/core/wgt_core_screen.h" alt="" coords="265,160,500,189"/>
+<area shape="rect" id="node7" href="$wgt__core__widget_8h.html" title="sam&#45;gui/wgt/core/wgt_core_widget.h" alt="" coords="5,237,237,267"/>
+<area shape="rect" id="node17" href="$wgt__core__message_8h.html" title="sam&#45;gui/wgt/core/wgt_core_message.h" alt="" coords="261,237,509,267"/>
+<area shape="rect" id="node9" href="$disp__backend_8h.html" title="disp/disp_backend.h" alt="" coords="476,315,617,344"/>
+<area shape="rect" id="node11" href="$sam__gui__color_8h.html" title="sam&#45;gui/common/sam_gui_color.h" alt="" coords="835,392,1056,421"/>
+<area shape="rect" id="node13" href="$sam__gui__font_8h.html" title="sam&#45;gui/common/sam_gui_font.h" alt="" coords="440,392,653,421"/>
+<area shape="rect" id="node15" href="$sam__gui__font10x14_8h.html" title="sam&#45;gui/common/sam_gui_font10x14.h" alt="" coords="423,469,671,499"/>
+<area shape="rect" id="node22" href="$wgt__core__frontend_8h.html" title="sam&#45;gui/wgt/core/wgt_core_frontend.h" alt="" coords="844,237,1084,267"/>
+<area shape="rect" id="node40" href="$frontend___a_d_s7843_8h.html" title="sam&#45;gui/wgt/frontends/frontend_ADS7843.h" alt="" coords="1088,160,1360,189"/>
+</map>

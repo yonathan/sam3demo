@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__disp__demo.html#gac861ecc4fa0e761428a91cd801a50580" title="_ScrDISPDemo_OnDrawBackground" alt="" coords="221,5,456,35"/>
+<area shape="rect" id="node5" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#ga3f11775614a9141bc86566e0f5c7a98a" title="WGT_SetCurrentScreen" alt="" coords="257,59,420,88"/>
+<area shape="rect" id="node7" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#ga5643d6ac224637489f1daf3f8d8e7f61" title="WGT_SetTimerPeriod" alt="" coords="265,112,412,141"/>
+</map>

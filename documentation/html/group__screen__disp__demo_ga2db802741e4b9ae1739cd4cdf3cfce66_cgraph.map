@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__disp__demo.html#ga533c69c39caaeaed085d8c911ac22fc1" title="_ScrDISPDemo_DrawBitmaps" alt="" coords="207,5,404,35"/>
+<area shape="rect" id="node5" href="$group__screen__disp__demo.html#gaf41723d146cb0ae49046529d2f894580" title="_ScrDISPDemo_DrawColors" alt="" coords="212,59,399,88"/>
+<area shape="rect" id="node11" href="$group__screen__disp__demo.html#ga03f307e5997c4337779a12619db7d331" title="_ScrDISPDemo_DrawPrimitives" alt="" coords="203,112,408,141"/>
+<area shape="rect" id="node7" href="$group__screen__disp__demo.html#gabf406bdd9b4ab715cc59fa0a61f3a81f" title="_HLStoRGB" alt="" coords="495,59,588,88"/>
+<area shape="rect" id="node9" href="$group__screen__disp__demo.html#ga7d4ddb129a73913e6b2f490148bdd7ee" title="_HuetoRGB" alt="" coords="675,59,765,88"/>
+<area shape="rect" id="node13" href="$group__screen__disp__demo.html#ga629f37669cc43098412209945da61b12" title="_ScrDISPDemo_GetRand" alt="" coords="456,112,627,141"/>
+</map>

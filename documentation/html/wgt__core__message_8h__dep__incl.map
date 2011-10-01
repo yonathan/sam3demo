@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$board__dependencies_8c.html" title="demo/src/board_dependencies.c" alt="" coords="921,83,1132,112"/>
+<area shape="rect" id="node5" href="$qtouch_8c.html" title="demo/src/qtouch/qtouch.c" alt="" coords="1156,83,1329,112"/>
+<area shape="rect" id="node7" href="$wgt__core__message_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_message.c" alt="" coords="5,237,301,267"/>
+<area shape="rect" id="node9" href="$wgt__core__screen_8h.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_screen.h" alt="" coords="1404,83,1687,112"/>
+<area shape="rect" id="node74" href="$frontend___a_d_s7843_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_ADS7843.c" alt="" coords="1711,83,2031,112"/>
+<area shape="rect" id="node76" href="$frontend__potentiometer_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_potentiometer.c" alt="" coords="2055,83,2399,112"/>
+<area shape="rect" id="node78" href="$frontend__pushbuttons_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_pushbuttons.c" alt="" coords="2423,83,2759,112"/>
+<area shape="rect" id="node11" href="$screens_8h.html" title="demo/src/gui/screens.h" alt="" coords="2944,160,3101,189"/>
+<area shape="rect" id="node47" href="$wgt__core_8h.html" title="libraries/sam&#45;gui/wgt/core/wgt_core.h" alt="" coords="2415,160,2652,189"/>
+<area shape="rect" id="node71" href="$wgt__core__screen_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_screen.c" alt="" coords="325,237,608,267"/>
+<area shape="rect" id="node13" href="$scr__audio_8c.html" title="demo/src/gui/scr_audio.c" alt="" coords="3659,237,3827,267"/>
+<area shape="rect" id="node15" href="$scr__disp__demo_8c.html" title="demo/src/gui/scr_disp_demo.c" alt="" coords="3851,237,4051,267"/>
+<area shape="rect" id="node17" href="$scr__infos_8c.html" title="demo/src/gui/scr_infos.c" alt="" coords="4075,237,4237,267"/>
+<area shape="rect" id="node19" href="$scr__intro_8c.html" title="demo/src/gui/scr_intro.c" alt="" coords="4261,237,4424,267"/>
+<area shape="rect" id="node21" href="$scr__lp__modes_8c.html" title="demo/src/gui/scr_lp_modes.c" alt="" coords="4448,237,4640,267"/>
+<area shape="rect" id="node23" href="$scr__lp__modes__backup_8c.html" title="demo/src/gui/scr_lp_modes_backup.c" alt="" coords="4664,237,4907,267"/>
+<area shape="rect" id="node25" href="$scr__lp__modes__sleep_8c.html" title="demo/src/gui/scr_lp_modes_sleep.c" alt="" coords="1259,237,1488,267"/>
+<area shape="rect" id="node27" href="$scr__lp__modes__wait_8c.html" title="demo/src/gui/scr_lp_modes_wait.c" alt="" coords="1512,237,1733,267"/>
+<area shape="rect" id="node29" href="$scr__main_8c.html" title="demo/src/gui/scr_main.c" alt="" coords="1757,237,1923,267"/>
+<area shape="rect" id="node31" href="$scr__ppt_8c.html" title="demo/src/gui/scr_ppt.c" alt="" coords="1947,237,2101,267"/>
+<area shape="rect" id="node33" href="$scr__qtouch_8c.html" title="demo/src/gui/scr_qtouch.c" alt="" coords="2125,237,2301,267"/>
+<area shape="rect" id="node35" href="$scr__settings_8c.html" title="demo/src/gui/scr_settings.c" alt="" coords="2325,237,2507,267"/>
+<area shape="rect" id="node37" href="$scr__settings__backlight_8c.html" title="demo/src/gui/scr_settings_backlight.c" alt="" coords="2531,237,2773,267"/>
+<area shape="rect" id="node39" href="$scr__settings__date_8c.html" title="demo/src/gui/scr_settings_date.c" alt="" coords="2797,237,3011,267"/>
+<area shape="rect" id="node41" href="$scr__settings__time_8c.html" title="demo/src/gui/scr_settings_time.c" alt="" coords="3035,237,3248,267"/>
+<area shape="rect" id="node43" href="$scr___t_s_d_calibration_8c.html" title="demo/src/gui/scr_TSDCalibration.c" alt="" coords="3272,237,3493,267"/>
+<area shape="rect" id="node45" href="$main_8c.html" title="demo/src/main.c" alt="" coords="3517,237,3635,267"/>
+<area shape="rect" id="node66" href="$wgt__core_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core.c" alt="" coords="632,237,869,267"/>
+<area shape="rect" id="node68" href="$wgt__core__behaviour__default_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_behaviour_default.c" alt="" coords="893,237,1235,267"/>
+</map>

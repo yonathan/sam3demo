@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$scr__audio_8c.html" title="demo/src/gui/scr_audio.c" alt="" coords="5,83,173,112"/>
+<area shape="rect" id="node5" href="$scr__disp__demo_8c.html" title="demo/src/gui/scr_disp_demo.c" alt="" coords="197,83,397,112"/>
+<area shape="rect" id="node7" href="$scr__infos_8c.html" title="demo/src/gui/scr_infos.c" alt="" coords="421,83,584,112"/>
+<area shape="rect" id="node9" href="$scr__intro_8c.html" title="demo/src/gui/scr_intro.c" alt="" coords="608,83,771,112"/>
+<area shape="rect" id="node11" href="$scr__lp__modes_8c.html" title="demo/src/gui/scr_lp_modes.c" alt="" coords="795,83,987,112"/>
+<area shape="rect" id="node13" href="$scr__lp__modes__backup_8c.html" title="demo/src/gui/scr_lp_modes_backup.c" alt="" coords="1011,83,1253,112"/>
+<area shape="rect" id="node15" href="$scr__lp__modes__sleep_8c.html" title="demo/src/gui/scr_lp_modes_sleep.c" alt="" coords="1277,83,1507,112"/>
+<area shape="rect" id="node17" href="$scr__lp__modes__wait_8c.html" title="demo/src/gui/scr_lp_modes_wait.c" alt="" coords="1531,83,1752,112"/>
+<area shape="rect" id="node19" href="$scr__main_8c.html" title="demo/src/gui/scr_main.c" alt="" coords="1776,83,1941,112"/>
+<area shape="rect" id="node21" href="$scr__ppt_8c.html" title="demo/src/gui/scr_ppt.c" alt="" coords="1965,83,2120,112"/>
+<area shape="rect" id="node23" href="$scr__qtouch_8c.html" title="demo/src/gui/scr_qtouch.c" alt="" coords="2144,83,2320,112"/>
+<area shape="rect" id="node25" href="$scr__settings_8c.html" title="demo/src/gui/scr_settings.c" alt="" coords="2344,83,2525,112"/>
+<area shape="rect" id="node27" href="$scr__settings__backlight_8c.html" title="demo/src/gui/scr_settings_backlight.c" alt="" coords="2549,83,2792,112"/>
+<area shape="rect" id="node29" href="$scr__settings__date_8c.html" title="demo/src/gui/scr_settings_date.c" alt="" coords="2816,83,3029,112"/>
+<area shape="rect" id="node31" href="$scr__settings__time_8c.html" title="demo/src/gui/scr_settings_time.c" alt="" coords="3053,83,3267,112"/>
+<area shape="rect" id="node33" href="$scr___t_s_d_calibration_8c.html" title="demo/src/gui/scr_TSDCalibration.c" alt="" coords="3291,83,3512,112"/>
+<area shape="rect" id="node35" href="$main_8c.html" title="demo/src/main.c" alt="" coords="3536,83,3653,112"/>
+<area shape="rect" id="node37" href="$backend___i_l_i9325_8c.html" title="libraries/sam&#45;gui/disp/backends/ILI9325/backend_ILI9325.c" alt="" coords="3677,83,4040,112"/>
+<area shape="rect" id="node39" href="$sam__gui__freertos_8c.html" title="libraries/sam&#45;gui/porting/sam_gui_freertos.c" alt="" coords="4064,83,4339,112"/>
+<area shape="rect" id="node41" href="$wgt__core_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core.c" alt="" coords="4363,83,4600,112"/>
+<area shape="rect" id="node43" href="$wgt__core__timer_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_timer.c" alt="" coords="4624,83,4896,112"/>
+<area shape="rect" id="node45" href="$frontend___a_d_s7843_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_ADS7843.c" alt="" coords="4920,83,5240,112"/>
+</map>

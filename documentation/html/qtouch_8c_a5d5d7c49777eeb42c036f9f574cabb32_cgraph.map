@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$qtouch_8c.html#a1fad8be082d57b33b330c9e39640d95c" title="config_sensors_at91 Configuration of the slider and the touch of the QTouch" alt="" coords="168,32,309,61"/>
+<area shape="rect" id="node9" href="$touch__api_8h.html#a3902ff0afcbd10a3a84e4e79b2aa8e7f" title="qt_reset_sensing" alt="" coords="179,85,299,115"/>
+<area shape="rect" id="node11" href="$qtouch_8c.html#af56846eadec09d0b0bbe4527c0e62f00" title="qt_set_parameters This will fill the default threshold values in the configuration..." alt="" coords="173,139,304,168"/>
+<area shape="rect" id="node5" href="$touch__api_8h.html#a7a4e0f08e4745b1b86c74b27d7a3623d" title="qt_enable_key" alt="" coords="363,5,469,35"/>
+<area shape="rect" id="node7" href="$touch__api_8h.html#aacf90785521dc31a9ee71d808c2c7d46" title="qt_enable_slider" alt="" coords="359,59,473,88"/>
+</map>

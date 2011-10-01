@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$board__dependencies_8c.html" title="demo/src/board_dependencies.c" alt="" coords="5,83,216,112"/>
+<area shape="rect" id="node5" href="$qtouch_8c.html" title="demo/src/qtouch/qtouch.c" alt="" coords="240,83,413,112"/>
+<area shape="rect" id="node7" href="$wgt__core__frontend_8c.html" title="libraries/sam&#45;gui/wgt/core/wgt_core_frontend.c" alt="" coords="437,83,728,112"/>
+<area shape="rect" id="node9" href="$frontend__pushbuttons_8c.html" title="libraries/sam&#45;gui/wgt/frontends/frontend_pushbuttons.c" alt="" coords="752,83,1088,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a67eff0ffd0a7ff6b5eb51faa8f93a6f4" title="Prepare to access GRAM data." alt="" coords="217,5,452,35"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#aa6710c4fec62b01ff65a9187ed53e204" title="Read data to LCD GRAM." alt="" coords="249,59,420,88"/>
+<area shape="rect" id="node7" href="$backend___i_l_i9325_8c.html#a8bc711d87a49f785008e6df29b8958a1" title="Set cursor of LCD srceen." alt="" coords="251,112,419,141"/>
+<area shape="rect" id="node9" href="$backend___i_l_i9325_8c.html#a552a8ac7342a33992a1a13bcbae007b2" title="Write data to LCD Register." alt="" coords="501,112,667,141"/>
+</map>

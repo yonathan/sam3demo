@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_s_w_g_t_screen.html" title="{SWGTScreen\n|+ apWidgets\l+ dwWidgets\l+ dwClrBackground\l+ pucBmpBackground\l+ pWidgetOld\l+ pWidgetCurrent\l+ ProcessMessage\l+ OnInitialize\l+ OnEraseBackground\l+ OnPaint\l|}" alt="" coords="5,489,160,730"/>
+<area shape="rect" id="node4" href="$struct_s_w_g_t___widget.html" title="{SWGT_Widget\n|+ dwType\l+ dwID\l+ pParent\l+ pSibling\l+ pChild\l+ dwX\l+ dwY\l+ dwWidth\l+ dwHeight\l+ dwClrText\l+ dwClrBackground\l+ dwStyle\l+ pvBitmap\l+ pvFont\l+ pvText\l+ dwStatus\l|}" alt="" coords="15,6,148,351"/>
+<area shape="rect" id="node6" href="$struct_s_w_g_t_frontend.html" title="{SWGTFrontend\n|+ sData\l+ Initialize\l+ IOCtl\l|}" alt="" coords="184,549,296,669"/>
+<area shape="rect" id="node8" href="$structs_w_g_t_frontend_data.html" title="{sWGTFrontendData\n|+ dwId\l|}" alt="" coords="172,136,308,221"/>
+<area shape="rect" id="node10" href="$struct_s_d_i_s_p_backend.html" title="{SDISPBackend\n|+ sData\l+ Reset\l+ Initialize\l+ GetPixel\l+ DrawPixel\l+ DrawLine\l+ DrawCircle\l+ DrawFilledCircle\l+ DrawRectangle\l+ DrawFilledRectangle\l+ DrawBitmap\l+ DrawText\l+ Fill\l+ IOCtl\l|}" alt="" coords="323,454,475,765"/>
+<area shape="rect" id="node12" href="$structs_d_i_s_p_backend_data.html" title="{sDISPBackendData\n|+ dwID\l+ dwOrientation\l+ dwMode\l|}" alt="" coords="332,119,468,239"/>
+</map>

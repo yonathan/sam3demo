@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__disp__demo.html#gaae651356434d697467cc7d701719831f" title="_ScrDISPDemo_OnInitialize" alt="" coords="228,5,412,35"/>
+<area shape="rect" id="node5" href="$group__screen__qtouch.html#ga6a60c71e1f51e8e11d925fbd3173ad47" title="_ScrQTouch_OnInitialize" alt="" coords="237,59,403,88"/>
+<area shape="rect" id="node7" href="$group__screen__settings__date.html#ga982dc7bdea6be7f38f217419c21afdd5" title="_ScrSettings_Date_OnInitialize" alt="" coords="219,112,421,141"/>
+<area shape="rect" id="node9" href="$group__screen__settings__time.html#gadc78966e70d451f0891a5835ac87a589" title="_ScrSettings_Time_OnInitialize" alt="" coords="219,165,421,195"/>
+<area shape="rect" id="node11" href="$group__screen__tsd__calibration.html#ga3f6d65c1cd2f383a3d46be76fa3995f7" title="_ScrTSDCalibration_OnInitialize" alt="" coords="217,219,423,248"/>
+<area shape="rect" id="node13" href="$group__screen__audio.html#gaa82a7fa939a6670bf70f836a5834c61f" title="ScrAudio_OnInitialize" alt="" coords="247,272,393,301"/>
+<area shape="rect" id="node15" href="$group__screen__infos.html#ga1fa89596567d1ab173224a3398ef00a6" title="ScrInfos_OnInitialize" alt="" coords="251,325,389,355"/>
+<area shape="rect" id="node17" href="$group__screen__intro.html#ga045c76eb1d4f1dccea73567e6a69434d" title="ScrIntro_OnInitialize" alt="" coords="251,379,389,408"/>
+<area shape="rect" id="node19" href="$group__screen__backup.html#gab41611b8862bf1252cb83fd9e09232d8" title="ScrLPModes_Backup_OnInitialize" alt="" coords="211,432,429,461"/>
+<area shape="rect" id="node21" href="$group__screen__lp__modes.html#gada271e713c8b782f16c489b05c9a9d62" title="ScrLPModes_OnInitialize" alt="" coords="236,485,404,515"/>
+<area shape="rect" id="node23" href="$group__screen__sleep.html#gacc4b0909ec72110fb36bda97f5ef8356" title="ScrLPModes_Sleep_OnInitialize" alt="" coords="216,539,424,568"/>
+<area shape="rect" id="node25" href="$group__screen__wait__mode.html#gaf18299f0559df9089aafc69e4d77d45f" title="ScrLPModes_Wait_OnInitialize" alt="" coords="219,592,421,621"/>
+<area shape="rect" id="node27" href="$group__screen__main.html#ga0b4a847ef939572c917b5fb824945cb8" title="ScrMain_OnInitialize" alt="" coords="249,645,391,675"/>
+<area shape="rect" id="node29" href="$group__screen__ppt.html#ga0e9857bf6af931ab4d7c08dc3c5dc83f" title="ScrPPT_OnInitialize" alt="" coords="251,699,389,728"/>
+<area shape="rect" id="node31" href="$group__screen__settings__backlight.html#ga78891aa867e6a05536f00e369123d9de" title="ScrSettings_Backlight_OnInitialize" alt="" coords="209,752,431,781"/>
+<area shape="rect" id="node33" href="$group__screen__settings.html#ga4ebeaf768d3679775e67ff12759893bd" title="ScrSettings_OnInitialize" alt="" coords="240,805,400,835"/>
+</map>

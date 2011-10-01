@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga2998f93c4bcabda718ca89d5da2dde15" title="WGT_CreateWidget" alt="" coords="211,5,349,35"/>
+<area shape="rect" id="node5" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#gad94f9f30b9865598ac0614d9e32092dd" title="WGT_Screen_AddWidget" alt="" coords="195,59,365,88"/>
+<area shape="rect" id="node7" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___s_c_r_e_e_n_s.html#gad1543aa09f137ac9ee896661e5bfea3e" title="WGT_Screen_Initialize" alt="" coords="203,112,357,141"/>
+<area shape="rect" id="node9" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga070902cb8b3a9c5db127b787d1fe98db" title="WGT_SetBitmap" alt="" coords="220,165,340,195"/>
+<area shape="rect" id="node11" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga667ecec36f843d4631908966842d5c8d" title="WGT_SetBkgndColor" alt="" coords="207,219,353,248"/>
+<area shape="rect" id="node13" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#ga11817090eca8c77cb79ddbb585d348e8" title="WGT_SetText" alt="" coords="228,272,332,301"/>
+<area shape="rect" id="node15" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___w_i_d_g_e_t_s.html#gaf6561ca7673563a9c32e18ee5accba38" title="WGT_SetTextColor" alt="" coords="213,325,347,355"/>
+</map>

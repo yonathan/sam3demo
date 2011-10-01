@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node31" href="$wgt__core_8h.html" title="sam&#45;gui/wgt/core/wgt_core.h" alt="" coords="1544,83,1731,112"/>
+<area shape="rect" id="node37" href="$disp__backend_8h.html" title="disp/disp_backend.h" alt="" coords="1533,315,1675,344"/>
+<area shape="rect" id="node52" href="$sam__gui__errors_8h.html" title="sam&#45;gui/common/sam_gui_errors.h" alt="" coords="1877,83,2104,112"/>
+<area shape="rect" id="node54" href="$sam__gui__porting_8h.html" title="sam&#45;gui/porting/sam_gui_porting.h" alt="" coords="93,83,315,112"/>
+<area shape="rect" id="node69" href="$fatfs__config_8h.html" title="fatfs_config.h" alt="" coords="3109,83,3208,112"/>
+<area shape="rect" id="node73" href="$screens_8h.html" title="gui/screens.h" alt="" coords="1755,83,1853,112"/>
+<area shape="rect" id="node76" href="$demo__parameters_8h.html" title="demo_parameters.h" alt="" coords="2128,83,2264,112"/>
+<area shape="rect" id="node81" href="$ftldrv_8h.html" title="nand/ftldrv.h" alt="" coords="3232,83,3323,112"/>
+<area shape="rect" id="node89" href="$usbmsd_8h.html" title="usb/usbmsd.h" alt="" coords="3587,83,3691,112"/>
+<area shape="rect" id="node96" href="$qtouch_8h.html" title="qtouch/qtouch.h" alt="" coords="3347,83,3461,112"/>
+<area shape="rect" id="node99" href="$board__dependencies_8h.html" title="board_dependencies.h" alt="" coords="3715,83,3867,112"/>
+<area shape="rect" id="node33" href="$wgt__core__screen_8h.html" title="sam&#45;gui/wgt/core/wgt_core_screen.h" alt="" coords="1561,160,1796,189"/>
+<area shape="rect" id="node47" href="$wgt__core__frontend_8h.html" title="sam&#45;gui/wgt/core/wgt_core_frontend.h" alt="" coords="2016,237,2256,267"/>
+<area shape="rect" id="node35" href="$wgt__core__widget_8h.html" title="sam&#45;gui/wgt/core/wgt_core_widget.h" alt="" coords="1488,237,1720,267"/>
+<area shape="rect" id="node45" href="$wgt__core__message_8h.html" title="sam&#45;gui/wgt/core/wgt_core_message.h" alt="" coords="1744,237,1992,267"/>
+<area shape="rect" id="node39" href="$sam__gui__color_8h.html" title="sam&#45;gui/common/sam_gui_color.h" alt="" coords="1373,392,1595,421"/>
+<area shape="rect" id="node41" href="$sam__gui__font_8h.html" title="sam&#45;gui/common/sam_gui_font.h" alt="" coords="1619,392,1832,421"/>
+<area shape="rect" id="node43" href="$sam__gui__font10x14_8h.html" title="sam&#45;gui/common/sam_gui_font10x14.h" alt="" coords="1601,469,1849,499"/>
+<area shape="rect" id="node78" href="$frontend___a_d_s7843_8h.html" title="sam&#45;gui/wgt/frontends/frontend_ADS7843.h" alt="" coords="1992,160,2264,189"/>
+<area shape="rect" id="node83" href="$rtmedia_8h.html" title="rtmedia.h" alt="" coords="3293,160,3368,189"/>
+</map>

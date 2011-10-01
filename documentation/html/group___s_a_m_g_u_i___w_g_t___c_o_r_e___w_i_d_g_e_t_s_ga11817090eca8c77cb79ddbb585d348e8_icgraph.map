@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__settings__date.html#ga982dc7bdea6be7f38f217419c21afdd5" title="_ScrSettings_Date_OnInitialize" alt="" coords="419,50,621,79"/>
+<area shape="rect" id="node5" href="$group__screen__settings__date.html#gad143da47f95bfdaaa7a610c817aa9234" title="_ScrSettings_Date_SetDay" alt="" coords="164,50,345,79"/>
+<area shape="rect" id="node10" href="$group__screen__settings__date.html#ga193e6cd22a5be54ce066a89e8f4c18d5" title="_ScrSettings_Date_SetMonth" alt="" coords="157,103,352,133"/>
+<area shape="rect" id="node14" href="$group__screen__settings__date.html#ga605baf6a3de442ba842c9ebb8fc74ac2" title="_ScrSettings_Date_SetYear" alt="" coords="163,157,347,186"/>
+<area shape="rect" id="node18" href="$group__screen__settings__time.html#gadc78966e70d451f0891a5835ac87a589" title="_ScrSettings_Time_OnInitialize" alt="" coords="419,261,621,290"/>
+<area shape="rect" id="node20" href="$group__screen__settings__time.html#gab7d44cb7ce677070abd576cbd428be12" title="_ScrSettings_Time_SetHour" alt="" coords="161,261,348,290"/>
+<area shape="rect" id="node25" href="$group__screen__settings__time.html#ga8ca0c3c4ef5c86dc69cb5959d70425fb" title="_ScrSettings_Time_SetMin" alt="" coords="165,314,344,343"/>
+<area shape="rect" id="node29" href="$group__screen__settings__time.html#gaf49440bbafca246aa26b1de2e5d78215" title="_ScrSettings_Time_SetSec" alt="" coords="164,367,345,397"/>
+<area shape="rect" id="node33" href="$group__screen__main.html#ga1accd50b50bf3b3381f4fc711dc2e699" title="ScrMain_DrawStatus" alt="" coords="183,421,327,450"/>
+<area shape="rect" id="node37" href="$group__screen__main.html#ga0b4a847ef939572c917b5fb824945cb8" title="ScrMain_OnInitialize" alt="" coords="184,474,325,503"/>
+<area shape="rect" id="node8" href="$group__screen__settings__date.html#ga29e0449d57775246a13978fcf4352306" title="_ScrSettings_Date_ProcessMessage" alt="" coords="401,103,639,133"/>
+<area shape="rect" id="node23" href="$group__screen__settings__time.html#ga5326c87dcc5e9c636f52ac959d634bb0" title="_ScrSettings_Time_ProcessMessage" alt="" coords="400,314,640,343"/>
+<area shape="rect" id="node35" href="$group__screen__main.html#ga13c80a2669231756aac2ff58cce9f5a9" title="ScrMain_ProcessMessage" alt="" coords="431,421,609,450"/>
+</map>

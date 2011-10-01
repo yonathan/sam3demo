@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$wgt__core__frontend_8h.html" title="sam&#45;gui/wgt/core/wgt_core_frontend.h" alt="" coords="599,160,839,189"/>
+<area shape="rect" id="node5" href="$sam__gui__errors_8h.html" title="sam&#45;gui/common/sam_gui_errors.h" alt="" coords="24,83,251,112"/>
+<area shape="rect" id="node7" href="$frontend___a_d_s7843_8h.html" title="sam&#45;gui/wgt/frontends/frontend_ADS7843.h" alt="" coords="275,83,547,112"/>
+<area shape="rect" id="node10" href="$frontend__pushbuttons_8h.html" title="sam&#45;gui/wgt/frontends/frontend_pushbuttons.h" alt="" coords="1171,83,1459,112"/>
+<area shape="rect" id="node15" href="$frontend__potentiometer_8h.html" title="sam&#45;gui/wgt/frontends/frontend_potentiometer.h" alt="" coords="571,83,867,112"/>
+<area shape="rect" id="node18" href="$frontend__qtouch_8h.html" title="sam&#45;gui/wgt/frontends/frontend_qtouch.h" alt="" coords="891,83,1147,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__screen__qtouch.html#ga6a60c71e1f51e8e11d925fbd3173ad47" title="_ScrQTouch_OnInitialize" alt="" coords="203,5,368,35"/>
+<area shape="rect" id="node5" href="$group__screen__qtouch.html#gae8d5d111344526c9a9ba3a79b3030fb2" title="_ScrQTouch_ProcessMessage" alt="" coords="184,59,387,88"/>
+<area shape="rect" id="node7" href="$group__screen__settings__date.html#ga982dc7bdea6be7f38f217419c21afdd5" title="_ScrSettings_Date_OnInitialize" alt="" coords="184,112,387,141"/>
+<area shape="rect" id="node9" href="$group__screen__settings__time.html#gadc78966e70d451f0891a5835ac87a589" title="_ScrSettings_Time_OnInitialize" alt="" coords="184,165,387,195"/>
+<area shape="rect" id="node11" href="$group__screen__audio.html#gaa82a7fa939a6670bf70f836a5834c61f" title="ScrAudio_OnInitialize" alt="" coords="212,219,359,248"/>
+<area shape="rect" id="node13" href="$group__screen__lp__modes.html#gada271e713c8b782f16c489b05c9a9d62" title="ScrLPModes_OnInitialize" alt="" coords="201,272,369,301"/>
+<area shape="rect" id="node15" href="$group__screen__main.html#ga0b4a847ef939572c917b5fb824945cb8" title="ScrMain_OnInitialize" alt="" coords="215,325,356,355"/>
+<area shape="rect" id="node17" href="$group__screen__settings__backlight.html#ga78891aa867e6a05536f00e369123d9de" title="ScrSettings_Backlight_OnInitialize" alt="" coords="175,379,396,408"/>
+<area shape="rect" id="node19" href="$group__screen__settings.html#ga4ebeaf768d3679775e67ff12759893bd" title="ScrSettings_OnInitialize" alt="" coords="205,432,365,461"/>
+</map>

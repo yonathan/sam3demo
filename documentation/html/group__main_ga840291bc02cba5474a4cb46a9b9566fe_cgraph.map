@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__main.html#ga435879556689618a7ee6d33842edb018" title="_SetupHardware" alt="" coords="127,219,244,248"/>
+<area shape="rect" id="node39" href="$group__main.html#ga73a7a616c8e7ba205d6938d04d9f6cf5" title="_TaskMonitoring" alt="" coords="127,417,244,447"/>
+<area shape="rect" id="node43" href="$ftldrv_8c.html#a93a1992f19ea330e0df25359476359fa" title="FTL task. This task periodically calls MEDNandFlash_Flush() to store temporary objects..." alt="" coords="153,496,217,525"/>
+<area shape="rect" id="node46" href="$qtouch_8c.html#ae1e95b96cbf071165c3656773f24954c" title="TaskQTouch task. This task periodically update the QTouch." alt="" coords="139,553,232,583"/>
+<area shape="rect" id="node52" href="$usbmsd_8c.html#a862738ed8baaa1535e8f73c03d547d64" title="USB Mass storage task. This task periodically calls MEDNandFlash_Flush() to store..." alt="" coords="136,613,235,643"/>
+<area shape="rect" id="node60" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#gad9a23be0e3861a113cacd8501b8edcaa" title="WGT_Initialize" alt="" coords="132,667,239,696"/>
+<area shape="rect" id="node62" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e.html#ga3f11775614a9141bc86566e0f5c7a98a" title="WGT_SetCurrentScreen" alt="" coords="104,720,267,749"/>
+<area shape="rect" id="node5" href="$group__parameters.html#ga3afdc9df6458343c95dc8fe9dbebc81b" title="Demo_Parameters_Initialize" alt="" coords="315,192,499,221"/>
+<area shape="rect" id="node9" href="$group___s_a_m_g_u_i___d_i_s_p.html#ga5fd87bc20a029c7922bc1a5c55cfdbba" title="DISP_Initialize" alt="" coords="353,245,460,275"/>
+<area shape="rect" id="node11" href="$ftldrv_8c.html#a2bda5dc4ea43d2bb385d51cb8156539c" title="NandFlashInitialize" alt="" coords="341,325,472,355"/>
+<area shape="rect" id="node25" href="$qtouch_8c.html#a5d5d7c49777eeb42c036f9f574cabb32" title="QTouchInitialize QTouchInitialize initialise the QTouch interface." alt="" coords="349,72,464,101"/>
+<area shape="rect" id="node37" href="$usbmsd_8c.html#a8fe26b30e41c34ee45c2112b30a6b336" title="UsbMsdInitialize" alt="" coords="348,139,465,168"/>
+<area shape="rect" id="node7" href="$group__parameters.html#ga2706369ed7c5bf64712f21b1c8294373" title="Demo_Parameters_CommitChanges" alt="" coords="548,165,780,195"/>
+<area shape="rect" id="node13" href="$group__group__bsp.html#ga27d74089e5e4bce8098f780bc309337a" title="Configures the EBI for NandFlash access." alt="" coords="569,325,759,355"/>
+<area shape="rect" id="node15" href="$fatfs__config_8h.html#a3e3be40c604a2df3fbd9e586afbc7800" title="f_mkfs" alt="" coords="635,379,693,408"/>
+<area shape="rect" id="node17" href="$fatfs__config_8h.html#ad995e9683ac193923812fbb250ba0acb" title="f_mount" alt="" coords="631,432,697,461"/>
+<area shape="rect" id="node19" href="$fatfs__config_8h.html#ace3bd1497a01d39625dc9685ca46945d" title="f_opendir" alt="" coords="627,219,701,248"/>
+<area shape="rect" id="node21" href="$rtmedia_8c.html#a3bdc39f3d6d7a9ee229db5cdbcfcb7bd" title="Wrapper for the Media Flush function. This wrapper protects from simultanoeous access..." alt="" coords="605,485,723,515"/>
+<area shape="rect" id="node23" href="$rtmedia_8c.html#a25c3d04d4fb6466fd22ce77261d200d4" title="Initialize the RtMedia object. This initialization ONLY concerns the mutex." alt="" coords="613,272,715,301"/>
+<area shape="rect" id="node27" href="$qtouch_8c.html#a1fad8be082d57b33b330c9e39640d95c" title="config_sensors_at91 Configuration of the slider and the touch of the QTouch" alt="" coords="593,59,735,88"/>
+<area shape="rect" id="node33" href="$touch__api_8h.html#a3902ff0afcbd10a3a84e4e79b2aa8e7f" title="qt_reset_sensing" alt="" coords="604,112,724,141"/>
+<area shape="rect" id="node35" href="$qtouch_8c.html#af56846eadec09d0b0bbe4527c0e62f00" title="qt_set_parameters This will fill the default threshold values in the configuration..." alt="" coords="599,5,729,35"/>
+<area shape="rect" id="node29" href="$touch__api_8h.html#a7a4e0f08e4745b1b86c74b27d7a3623d" title="qt_enable_key" alt="" coords="835,32,941,61"/>
+<area shape="rect" id="node31" href="$touch__api_8h.html#aacf90785521dc31a9ee71d808c2c7d46" title="qt_enable_slider" alt="" coords="831,85,945,115"/>
+<area shape="rect" id="node41" href="$sam__gui__porting_8h.html#af96c3ec1b04c9caf4ce04fa0737bd982" title="SAMGUI_TaskDelay" alt="" coords="336,405,477,435"/>
+<area shape="rect" id="node48" href="$touch__api_8h.html#a53f85af20e2cd4b097205b901fea7bd2" title="qt_measure_sensors" alt="" coords="336,509,477,539"/>
+<area shape="rect" id="node50" href="$group___s_a_m_g_u_i___w_g_t___c_o_r_e___m_e_s_s_a_g_e_s.html#ga2605c643deb02eb219c938d8ba29e9ac" title="WGT_SendMessage" alt="" coords="336,563,477,592"/>
+<area shape="rect" id="node54" href="$usbmsd_8c.html#a808a5228ef4255538d693917e6a49efb" title="MSDCallbacks_Data" alt="" coords="336,616,477,645"/>
+<area shape="rect" id="node56" href="$_m_s_d_lun_8c.html#aa710b1e43c3ab9a2de3f14fa2ede41bc" title="Initializes a LUN instance. Must be invoked at least once even no Media is linked..." alt="" coords="364,669,449,699"/>
+<area shape="rect" id="node58" href="$usbmsd_8c.html#a5e8998eb86551a02e8a1aac21428dd0a" title="Configures the VBus Pin." alt="" coords="349,723,464,752"/>
+</map>

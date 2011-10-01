@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$backend___i_l_i9325_8c.html#a2bba6e97c9b8e06d5b355274222aac9c" title="_DBE_ILI9325_DrawBitmap" alt="" coords="1280,116,1461,145"/>
+<area shape="rect" id="node5" href="$backend___i_l_i9325_8c.html#a342fc1687120380dc64302404e25016d" title="_DBE_ILI9325_DrawBitmapBMP" alt="" coords="1011,116,1221,145"/>
+<area shape="rect" id="node8" href="$backend___i_l_i9325_8c.html#a405ff9be169b7dbd14dff7bcd753c1fa" title="_DBE_ILI9325_DrawBitmapBMPFile" alt="" coords="1001,180,1231,209"/>
+<area shape="rect" id="node11" href="$backend___i_l_i9325_8c.html#ac2f18cf21039d87e2c7d315286efbf8b" title="_DBE_ILI9325_DrawFilledRectangle" alt="" coords="723,116,952,145"/>
+<area shape="rect" id="node15" href="$backend___i_l_i9325_8c.html#a3a92d46a3a84bd791f12a26ce32001f5" title="_DBE_ILI9325_DrawLine" alt="" coords="756,245,919,275"/>
+<area shape="rect" id="node23" href="$backend___i_l_i9325_8c.html#a0407290fb9929b4c3cd167587cef6735" title="_DBE_ILI9325_DrawPixel" alt="" coords="225,245,393,275"/>
+<area shape="rect" id="node35" href="$backend___i_l_i9325_8c.html#a73ae69db23cb60f8702772cae39b40f7" title="_DBE_ILI9325_GetPixel" alt="" coords="229,299,389,328"/>
+<area shape="rect" id="node37" href="$backend___i_l_i9325_8c.html#af8a2f0e1d6ca5686d191cbaeec6fd69b" title="Initialize the LCD controller." alt="" coords="231,352,388,381"/>
+<area shape="rect" id="node19" href="$backend___i_l_i9325_8c.html#a94c92867a5e757f12b305a49340a3792" title="_DBE_ILI9325_DrawFilledCircle" alt="" coords="1015,299,1217,328"/>
+<area shape="rect" id="node21" href="$backend___i_l_i9325_8c.html#ad3021302de9e7f7a957fc388e9c5a78b" title="_DBE_ILI9325_DrawRectangle" alt="" coords="1017,245,1215,275"/>
+<area shape="rect" id="node25" href="$backend___i_l_i9325_8c.html#aac81946495156493c7517b93f70c45e6" title="_DBE_ILI9325_DrawChar" alt="" coords="476,352,641,381"/>
+<area shape="rect" id="node29" href="$backend___i_l_i9325_8c.html#ac035f86f610614bfb43e63584f0ac749" title="_DBE_ILI9325_DrawCircle" alt="" coords="472,299,645,328"/>
+<area shape="rect" id="node32" href="$backend___i_l_i9325_8c.html#aa0a8a5bdd6de9530afb0a680830a53b7" title="_DBE_ILI9325_DrawLineBresenham" alt="" coords="444,245,673,275"/>
+<area shape="rect" id="node27" href="$backend___i_l_i9325_8c.html#ad80436027223695100f8daab2402cd42" title="_DBE_ILI9325_DrawText" alt="" coords="755,352,920,381"/>
+</map>
